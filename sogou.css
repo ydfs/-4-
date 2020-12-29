@@ -195,11 +195,13 @@ body{
     margin-bottom: -2px;
 }
 
-.footer-news .colourlogo{
-    background: url('http://dlweb.sogoucdn.com/pcsearch/web/index/images/ico_ft_8795b8d.gif?v=1e99707e')no-repeat 0 0;
+._flex{
     position: relative;
     display: inline-block;
     width: 14px;
+}
+.footer-news .colourlogo{
+    background: url('http://dlweb.sogoucdn.com/pcsearch/web/index/images/ico_ft_8795b8d.gif?v=1e99707e')no-repeat 0 0;
     height: 14px;
     top: 2px;
     overflow: hidden;
@@ -208,17 +210,11 @@ body{
 }
 .footer-news .colourlogos{
     background: url('http://dlweb.sogoucdn.com/pcsearch/web/index/images/ico_ft_8795b8d.gif?v=1e99707e')no-repeat 0 -30px;
-    position: relative;
-    display: inline-block;
-    width: 14px;
     height: 13px;
     bottom: -2px;
 }
 .footer-news .colourlogoes{
     background: url('http://dlweb.sogoucdn.com/pcsearch/web/index/images/ico_ft_8795b8d.gif?v=1e99707e')no-repeat 0 -58px;
-    position: relative;
-    display: inline-block;
-    width: 14px;
     height: 12px;
     bottom: -1px;
 }
