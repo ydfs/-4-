@@ -178,10 +178,11 @@ body{
     letter-spacing: -4px;
     font-size: 0;
 }
-.mainer .btn-list img {
+.icon-qrcode img {
     opacity: 0;
     width: 223px;
     float: right;
+    margin-top: 50px;
 }
 .icon-qrcode:hover img{
     opacity: 1;
